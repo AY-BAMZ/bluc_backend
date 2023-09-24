@@ -1,0 +1,29 @@
+{
+  "name": "bluc_backend",
+  "version": "1.0.0",
+  "description": "bluc api doc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AY-BAMZ/bluc_backend.git"
+  },
+  "keywords": [
+    "bluc"
+  ],
+  "author": "Ayobami Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AY-BAMZ/bluc_backend/issues"
+  },
+  "homepage": "https://github.com/AY-BAMZ/bluc_backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^6.10.0"
+  }
+}
